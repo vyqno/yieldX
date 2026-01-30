@@ -1,0 +1,16 @@
+{
+  "crons": [
+    {
+      "path": "/api/cron/daily-snapshot",
+      "schedule": "0 0 * * *"
+    },
+    {
+      "path": "/api/init",
+      "schedule": "*/5 * * * *"
+    },
+    {
+      "path": "/api/worker?action=status",
+      "schedule": "*/10 * * * *"
+    }
+  ]
+}
