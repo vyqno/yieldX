@@ -2,6 +2,9 @@
 
 > **The Intelligent Interface for DeFi Yields.**
 > 
+> 🚀 **Live Demo**: [yield-x-cylq.vercel.app](https://yield-x-cylq.vercel.app/)  
+> 📦 **GitHub**: [github.com/vyqno/yieldX](https://github.com/vyqno/yieldX)
+>
 > *Hackathon Submission 2026*
 
 YieldX is a real-time Web3 yield tracking platform that aggregates APY data from the Aave protocol. It is designed to provide developers and users with instant, low-latency access to DeFi market data.
@@ -52,8 +55,8 @@ We have built a comprehensive platform that addresses every requirement:
 
 ### 1. Clone & Install
 ```bash
-git clone <your-repo-url>
-cd yieldx
+git clone https://github.com/vyqno/yieldX.git
+cd yieldX
 pnpm install
 ```
 
